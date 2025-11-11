@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<!-- valores obligatorios de channel-->
+		<title>Novedades de la feria de viajes</title>
+		<link>https://galcorta.w3spaces.com/</link> 
+		<description>Las ultimas novedades de la feria de viajes</description>
+		<!-- algunos valores opcional de channel-->
+		<language>es-es</language>
+		<copyright>No se puede copiar</copyright>
+		<managingEditor>korreo@korreo.eus</managingEditor>
+		<webMaster>korreua@korreo.eus</webMaster>
+		<!-- primer item-->
+		<item>
+			<title>Primer item</title>
+			<link>https://galcorta.w3spaces.com/SobreNosotros.html</link>
+			<pubDate>Thu, 11 Nov 2025 19:05:00 GMT</pubDate>
+			<description>Saber mas sobre nosotros</description>
+			<author>Garbiñe</author>
+		</item>
+		<!-- segundo item-->
+		<item>
+			<title>Segundo item</title>
+			<link>https://galcorta.w3spaces.com/participantes.html</link>
+			<pubDate>Thu, 11 Nov 2025 19:08:00 GMT</pubDate>
+			<description>Quienes tomas parte</description>
+			<author>Garbiñe</author>
+		</item>
+
+
+	</channel>
+</rss>
