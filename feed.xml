@@ -22,8 +22,16 @@
 			<pubDate>Wed, 12 Nov 2025 09:15:00 GMT</pubDate>
 			<description>Quienes tomas parte</description>
 		</item>
+		<!-- tercer item para ver si actualiza-->
+		<item>
+			<title>Item de prueba</title>
+			<guid>https://galcorta2025.github.io/LMSGI04TaEv1/Destinos.html</guid>
+			<pubDate>Wed, 12 Nov 2025 09:20:00 GMT</pubDate>
+			<description>A donde vamos</description>
+		</item>
 	</channel>
 </rss>
+
 
 
 
