@@ -10,14 +10,14 @@
 		<copyright>No se puede copiar</copyright>
 		<managingEditor>korreo@korreo.eus</managingEditor>
 		<webMaster>korreua@korreo.eus</webMaster>
-		<!-- primer item
+		<!-- primer item-->
 		<item>
 			<title>Primer item</title>
 			<link>https://galcorta.w3spaces.com/SobreNosotros.html</link>
 			<pubDate>Mon, 11 Nov 2025 19:05:00 GMT</pubDate>
 			<description>Saber mas sobre nosotros</description>
 			<author>korreoak@korreo.eus</author>
-		</item>-->
+		</item>
 		<!-- segundo item
 		<item>
 			<title>Segundo item</title>
@@ -31,5 +31,6 @@
 	</channel>
 
 </rss>
+
 
 
