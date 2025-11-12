@@ -8,15 +8,15 @@
 		<!-- algunos valores opcional de channel-->
 		<language>es-es</language>
 		<copyright>No se puede copiar</copyright>
-		<managingEditor>korreo@korreo.eus</managingEditor>
-		<webMaster>korreua@korreo.eus</webMaster>
+		<managingEditor>asier@korreo.eus</managingEditor>
+		<webMaster>garbine@korreo.eus</webMaster>
 		<!-- primer item-->
 		<item>
 			<title>Primer item</title>
 			<link>https://galcorta.w3spaces.com/SobreNosotros.html</link>
 			<pubDate>Mon, 11 Nov 2025 19:05:00 GMT</pubDate>
 			<description>Saber mas sobre nosotros</description>
-			<author>korreoak@korreo.eus</author>
+			<author>mikel@korreo.eus</author>
 		</item>
 		<!--segundo item-->
 		<item>
@@ -24,10 +24,11 @@
 			<link>https://galcorta.w3spaces.com/participantes.html</link>
 			<pubDate>Thu, 11 Nov 2025 19:08:00 GMT</pubDate>
 			<description>Quienes tomas parte</description>
-			<author>Korreoak@korreuak.eus</author>
+			<author>aitor@korreuak.eus</author>
 		</item>
 	</channel>
 </rss>
+
 
 
 
