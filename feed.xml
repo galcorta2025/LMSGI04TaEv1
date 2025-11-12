@@ -18,19 +18,17 @@
 			<description>Saber mas sobre nosotros</description>
 			<author>korreoak@korreo.eus</author>
 		</item>
-		<!-- segundo item
+		<!--segundo item-->
 		<item>
 			<title>Segundo item</title>
 			<link>https://galcorta.w3spaces.com/participantes.html</link>
 			<pubDate>Thu, 11 Nov 2025 19:08:00 GMT</pubDate>
 			<description>Quienes tomas parte</description>
 			<author>Garbiñe</author>
-		</item>-->
-
-
+		</item>
 	</channel>
-
 </rss>
+
 
 
 
